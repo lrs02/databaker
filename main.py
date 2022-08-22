@@ -8,5 +8,7 @@ if __name__ == '__main__':
     print(a >2)
     print(type("|".join(["1","2"])+'\n'))
 
+    # 重新开始改动
+
 # first
 
